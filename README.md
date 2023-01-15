@@ -1,0 +1,1 @@
+# Use-googletrans-to-translate-text-data-from-English-to-Marathi-language.
